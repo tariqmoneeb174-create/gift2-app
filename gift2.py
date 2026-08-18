@@ -64,5 +64,5 @@ if st.session_state.step2:
     with st.spinner("جاري تحضير الباقة... 💙"):
         time.sleep(1)
 
-    st.image"garden-rose-red-pink-56866(1).avif",
+    st.image("garden-rose-red-pink-56866(1).avif",
              caption="❤️ أحلى وردة لاحلى ورداية بحياتي يتعبج السادس واني افرحج", use_container_width=True)
